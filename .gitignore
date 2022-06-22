@@ -10,7 +10,7 @@
 /build
 
 # forms
-src/mailer/smart.php
+mailer/smart.php
 
 # misc
 .DS_Store
