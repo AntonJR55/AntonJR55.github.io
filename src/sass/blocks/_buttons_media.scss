@@ -1,0 +1,105 @@
+@media (max-width: 700px) {
+    .button {
+        width: 130px;
+        font-size: 11px;
+
+        &_main {
+            width: 250px;
+            font-size: 14px;
+        }
+
+        &_submit {
+            width: 100%;
+            font-size: 16px;
+        }
+
+        &_mini {
+            width: 131px;
+            height: 40px;
+            font-size: 14px;
+        }
+    }
+}
+
+@media (max-width: 600px) {
+    .button {
+        width: 110px;
+        font-size: 10px;
+        font-weight: 400;
+
+        &_main {
+            width: 200px;
+            font-size: 12px;
+        }
+
+        &_submit {
+            width: 100%;
+            font-size: 15px;
+        }
+
+        &_mini {
+            width: 131px;
+            height: 40px;
+            font-size: 14px;
+        }
+    }
+}
+
+@media (max-width: 500px) {
+    .button {
+        width: 70px;
+        height: 20px;
+        font-size: 6px;
+        font-weight: 400;
+
+        &_main {
+            width: 160px;
+            height: 35px;
+            font-size: 10px;
+        }
+
+        &_submit {
+            width: 100%;
+            height: 50px;
+            font-size: 14px;
+        }
+
+        &_mini {
+            width: 131px;
+            height: 40px;
+            font-size: 14px;
+        }
+    }
+}
+
+@media (max-width: 430px) {
+    .button {
+        &_submit {
+            width: 100%;
+            height: 40px;
+            font-size: 12px;
+        }
+
+        &_mini {
+            width: 131px;
+            height: 40px;
+            font-size: 14px;
+        }
+    }
+}
+
+@media (max-width: 350px) {
+    .button {
+        &_submit {
+            width: 100%;
+            height: 35px;
+            font-size: 11px;
+        }
+
+        &_mini {
+            width: 131px;
+            height: 40px;
+            font-size: 14px;
+        }
+    }
+}
